@@ -1,5 +1,5 @@
-const PRECACHE = ["./","apple-touch-icon.png","assets/index-DYHJheuy.js","assets/index-ReDknPWe.css","favicon.svg","icon-192.png","icon-512.png","manifest.webmanifest"];
-const VERSION = "79358d3e8e1f13b0";
+const PRECACHE = ["./","apple-touch-icon.png","assets/index-CT3uoILP.js","assets/index-DkDKoCle.css","favicon.svg","icon-192.png","icon-512.png","manifest.webmanifest"];
+const VERSION = "e441ed974e517af3";
 const PREFIX = "tapcode-";
 const CACHE = `${PREFIX}${VERSION}`;
 function serviceWorkerScope() {
