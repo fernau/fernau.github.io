@@ -1,5 +1,5 @@
-const PRECACHE = ["./","apple-touch-icon.png","assets/index-CGimpC7-.js","assets/index-DkDKoCle.css","assets/longestSubstring.outcomes-BvuyslN3.js","assets/pairSum.outcomes-CnvD2XOW.js","favicon.svg","icon-192.png","icon-512.png","manifest.webmanifest"];
-const VERSION = "0e6bebcce22655d5";
+const PRECACHE = ["./","apple-touch-icon.png","assets/anagramCount.cases-CLJxNq5S.js","assets/anagramCount.outcomes-CO_ri7w6.js","assets/index-DkDKoCle.css","assets/index-ZjwJ5ArA.js","assets/longestSubstring.cases-BCzjPQ7g.js","assets/longestSubstring.outcomes-CFIStsHc.js","assets/pairSum.cases-C1bqj9Oc.js","assets/pairSum.outcomes-DQlMdTK9.js","favicon.svg","icon-192.png","icon-512.png","manifest.webmanifest"];
+const VERSION = "b0d45b43adde0728";
 const PREFIX = "tapcode-";
 const CACHE = `${PREFIX}${VERSION}`;
 function serviceWorkerScope() {
