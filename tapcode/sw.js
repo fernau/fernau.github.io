@@ -1,5 +1,5 @@
-const PRECACHE = ["./","apple-touch-icon.png","assets/anagramCount.cases-CLJxNq5S.js","assets/anagramCount.outcomes-CO_ri7w6.js","assets/index-CpOdmL9X.js","assets/index-Dr7TtmT0.css","assets/longestSubstring.cases-BCzjPQ7g.js","assets/longestSubstring.outcomes-PbeXAAWW.js","assets/pairSum.cases-C1bqj9Oc.js","assets/pairSum.outcomes-DQlMdTK9.js","favicon.svg","icon-192.png","icon-512.png","manifest.webmanifest"];
-const VERSION = "737feb09148a5115";
+const PRECACHE = ["./","apple-touch-icon.png","assets/anagramCount.cases-CLJxNq5S.js","assets/anagramCount.outcomes-CO_ri7w6.js","assets/anagramCount.outputs-D1GnqN1X.js","assets/anagramSort.outputs-DZSgl5En.js","assets/index-BGOMo58u.css","assets/index-CvsJ6Kr_.js","assets/longestSubstring.cases-BCzjPQ7g.js","assets/longestSubstring.outcomes-PbeXAAWW.js","assets/longestSubstring.outputs-C03gzX1r.js","assets/pairSum.cases-C1bqj9Oc.js","assets/pairSum.outcomes-DQlMdTK9.js","assets/pairSum.outputs-C8pfJR1i.js","assets/repeatedBisect.outputs-B6fM5VCV.js","assets/repeatedFloyd.outputs-COlwRjhP.js","assets/repeatedSort.outputs-CbJv_b7U.js","favicon.svg","icon-192.png","icon-512.png","manifest.webmanifest"];
+const VERSION = "e03638e5f4e5636a";
 const PREFIX = "tapcode-";
 const CACHE = `${PREFIX}${VERSION}`;
 function serviceWorkerScope() {
